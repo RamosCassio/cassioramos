@@ -1,4 +1,4 @@
- ## Olá! meu nome é Cássio Ramos, desenvolvedor em aprimoramento e em busca de inserção no mercado de tecnologia.
+ ## Olá! meu nome é Cássio Ramos e estou em busca de inserção no mercado de tecnologia.
 <div align="center">
   <a href="https://github.com/RamosCassio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamosCassio&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
