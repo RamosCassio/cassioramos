@@ -1,12 +1,23 @@
 
-<div>
+<div align="center">
   <a href="https://github.com/RamosCassio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamosCassio&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamosCassio&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RamosCassio&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamosCassio&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
- 
-  ## Olá! meu nome é Cássio <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-  ## Estou estudando:
+
+  ## Olá! meu nome é Cássio <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  
+  ###
+  **Sobre Mim**
+<div style="display: inline_block">
+	<p> - 🖥️ Técnico em Desenvolvimento de Sistemas.</p>
+	<p> - 🧑‍🎓 Desenvolvedor em formação.</p>
+	<p> - 🛠️💻A disposição para oportunidades na áre de TI.</p>
+	<p> - ⚔️🎮Admirador de jogos de RPG.</p>
+</div>
+
+
+  ## Estou estudando 📚
 <div style="display: inline_block"><br>
   <img align="center" alt="Caos-HTML"  height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">&nbsp;&nbsp;
   <img align="center" alt="Caos-CSS"   height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">&nbsp;&nbsp;
@@ -22,9 +33,7 @@
  <div> 
   <a href="https://www.linkedin.com/in/desenvolvedorcassiodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:kassramos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
- 
- 
-  ![Snake animation](https://github.com/RamosCassio/cassioramos/blob/output/github-contribution-grid-snake.svg)
+    
+   ![Snake animation](https://github.com/RamosCassio/RamosCassio/blob/output/github-contribution-grid-snake.svg)
  
 </div>
