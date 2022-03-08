@@ -12,7 +12,7 @@
 <div style="display: inline_block">
 	<p> - 🖥️ Técnico em Desenvolvimento de Sistemas.</p>
 	<p> - 🧑‍🎓 Desenvolvedor em formação.</p>
-	<p> - 🛠️💻A disposição para oportunidades na áre de TI.</p>
+	<p> - 🛠️💻A disposição para oportunidades na área de TI.</p>
 	<p> - ⚔️🎮Admirador de jogos de RPG.</p>
 </div>
 
